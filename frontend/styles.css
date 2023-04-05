@@ -1,0 +1,41 @@
+:root{
+    --teal:rgb(204, 0, 255);
+    --black:rgba(0, 0, 0, 0.986);
+    --yellow: rgb(244, 240, 15);
+    --white:#fafafa;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.4;
+    font-size: 1rem;
+    background-color: var(--white);
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    display: flex;
+}
+/*Example of media query when your screen width will be 
+less then 800px this property wil apply*/
+@media only screen and (max-width:800px) {
+    body{
+        background-color: red;
+    }
+}
+/*Example of media query when your screen width will be 
+less then or equal to 400px this property wil apply*/
+@media only screen and (max-width:400px) {
+    body{
+        background-color: yellow;
+    }
+}

@@ -1,0 +1,16 @@
+DATE----------> 02/03/2023 THURSDAY 7:57 P.M
+1. My focus should be making navbar fully responsive 
+a) with burger button when open in phone and for tablet
+
+logo icon
+<i class="fa-solid fa-user-ninja fa-fade"></i>
+
+
+<i class="fa-solid fa-house"></i>
+<i class="fa-solid fa-laptop-code"><i> for skills
+
+<ul class="middleMenu">
+                <a href="#MyHome"><li class="home"><i class="fa-solid fa-house"></i>Home</li></a>
+                <a href="#MyCourses"><li class="course"><i class="fa-solid fa-laptop-code"><i>Courses</li></a>
+                <a href="Project"></a>
+            </ul>

@@ -1,0 +1,26 @@
+DATE----------> 02/03/2023 THURSDAY 7:57 P.M
+1. I am done with all basics requirement like
+a) Linking css,javascript and jquery in html page
+b) Done with Media Query
+c) selecting colors is completed
+
+
+date monday april3 2023
+nav menu added without styling
+
+<!--
+         Navbar Section Start
+         It will include 
+         1.HOME
+         2.COURSES
+         3.PROJECTS it include 5 sub part using dropdown(expand more) menu like structure include(
+            1.Personal(Gym,bloging)
+            2.E-commerce
+            3.Portfolio
+            4.Social(insta,facebook etc.)
+            5.Educational
+         4.BLOGS
+         5.ABOUTS
+         6.CONTACT
+         7.JOIN US
+    -->
